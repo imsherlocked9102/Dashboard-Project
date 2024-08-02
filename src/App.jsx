@@ -1,11 +1,11 @@
 import React from "react";
 import "./App.css";
-import TaskDashborad from "./Context/TaskDashborad";
+import Dashboard from "./Context/Dashboard";
 function App() {
   return (
     <>
       <>
-        <TaskDashborad />
+        <Dashboard />
       </>
     </>
   );
